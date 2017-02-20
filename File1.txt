@@ -3,3 +3,5 @@ File 1 - new
 Changes after first commit
 
 Additonal changes in file1
+
+Ammended changes
