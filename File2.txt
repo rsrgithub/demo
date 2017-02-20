@@ -1,3 +1,5 @@
 File 2 - new
 
 Changes after first commit in file2
+
+Version2.0 changes
